@@ -1,0 +1,10 @@
+{
+  "title": "This is the title",
+"p1": "Hi. My name is Andrés Beltrán. I'm a Web developer with a background in Philosophy. I aim to write code that is easy to understand and to integrate to existing codebases.",
+"p2": {
+  "text1": "I currently contribute to",
+   "link": {"name": "Greenstand", "href": ""},
+   "text2": "addressing issues that relate to React, Material UI, or calls to the API, and to", "link2": {"name":"The Open Buddhist University, ", "href":""},
+   "text3": "adding teacher's biographies in markup language."
+  }
+}
